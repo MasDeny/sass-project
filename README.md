@@ -1,6 +1,6 @@
 # sass-project
 
-Build Sass project with Next.js, tRpc, tailwind and prisma. And learn some CI/CD on github
+Build Sass project with Next.js, tRPC, tailwind and prisma. And learn some CI/CD on github
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
